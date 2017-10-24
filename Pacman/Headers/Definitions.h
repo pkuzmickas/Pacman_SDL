@@ -1,0 +1,27 @@
+#pragma once
+
+#define SCREEN_WIDTH 810
+#define SCREEN_HEIGHT 893
+#define COLUMNS 28
+#define ROWS 31
+#define STARTCOL 14
+#define STARTROW 17
+#define BOXSIZE 29
+#define PACMANSIZE 27
+#define GAMESPEED 0.125f
+#define GHOSTSIZEX 26
+#define GHOSTSIZEY 32
+#define ANIMSPEED 200
+#define RED_CORNER_ROW 1 //1
+#define RED_CORNER_COL 24 //24
+#define PINK_CORNER_ROW 1 
+#define PINK_CORNER_COL 2 
+#define ORANGE_CORNER_ROW 29 
+#define ORANGE_CORNER_COL 2 
+#define BLUE_CORNER_ROW 29 
+#define BLUE_CORNER_COL 24 
+#define GHOST_START_ROW 14 
+#define GHOST_START_COL 14 
+#define SCATTER_MODE_LENGTH 5
+#define CHASE_MODE_LENGTH 20
+#define COLLISION_ERROR 0
